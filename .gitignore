@@ -1,3 +1,4 @@
 desafio-4/flagged/*
 *.pkl
 *.csv
+*.json

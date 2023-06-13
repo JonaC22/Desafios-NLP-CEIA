@@ -2,3 +2,4 @@ desafio-4/flagged/*
 *.pkl
 *.csv
 *.json
+.vscode/ltex.dictionary.es-AR.txt
